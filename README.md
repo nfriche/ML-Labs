@@ -7,4 +7,4 @@ Labs completed for Machine Learning course.
 - Lab 3: gradient descent, linear regression
 - Lab 4: logistic regression, gradient descent
 - Lab 5: backward search, logistic regression, regularization
-- Lab 6: 
+- Lab 6: generalized linear models, polynomial regression
